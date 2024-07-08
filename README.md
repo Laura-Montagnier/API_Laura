@@ -33,3 +33,8 @@ chmod +x représentations.sh
 ## Résultats
 
 Les différents types de features sont présents dans le dossier "Résultats".
+
+## Références
+
+Pour le Pack_EMBER : https://github.com/elastic/ember
+Pour PE_Feats : Charles-Henry Bertrand van Ouytsel et al.
