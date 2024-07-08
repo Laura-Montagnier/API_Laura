@@ -10,13 +10,18 @@ Cette API permet de créer différentes représentations de fichiers exécutable
 
 Placez les fichiers exécutables dans le répertoire `Fichiers_Exécutables`.
 
-### 2. Rendre le script exécutable
+### 2. Adapter ember 
+
+pip install -r requirements.txt
+python3 setup.py install
+
+### 3. Rendre le script exécutable
 
 Ouvrez un terminal et rendez le script `représentations.sh` exécutable en entrant la commande suivante :
 
 chmod +x représentations.sh
 
-### 3. Exécuter le script
+### 4. Exécuter le script
 
 ./représentations.sh
 
