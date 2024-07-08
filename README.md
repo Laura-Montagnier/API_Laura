@@ -13,6 +13,7 @@ Placez les fichiers exécutables dans le répertoire `Fichiers_Exécutables`.
 ### 2. Adapter ember 
 
 pip install -r requirements.txt
+
 python3 setup.py install
 
 ### 3. Rendre le script exécutable
