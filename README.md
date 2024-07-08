@@ -16,6 +16,10 @@ pip install -r requirements.txt
 
 python3 setup.py install
 
+### 3. Installer LEAF
+
+Installer la version 14 de Leaf.
+
 ### 3. Rendre le script exécutable
 
 Ouvrez un terminal et rendez le script `représentations.sh` exécutable en entrant la commande suivante :
