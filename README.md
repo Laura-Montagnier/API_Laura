@@ -12,25 +12,33 @@ Placez les fichiers exécutables dans le répertoire `Fichiers_Exécutables`.
 
 ### 2. Adapter ember 
 
+Le package Ember a besoin de plusieurs installations pour démarer. Installez-les grâce à requirements.txt :
+
 pip install -r requirements.txt
 
 python3 setup.py install
 
 ### 3. Installer LIEF
 
-Installer la version 14 de Lief.
+Installez la version 14 de Lief, c'est-à-dire la plus récente.
 
 pip install lief
 
 ### 3. Rendre le script exécutable
 
-Ouvrez un terminal et rendez le script `représentations.sh` exécutable en entrant la commande suivante :
+Rendez le script `représentations.sh` exécutable en entrant la commande suivante :
 
 chmod +x représentations.sh
 
 ### 4. Exécuter le script
 
+Pour ceci, tapez dans l'invite de commande :
+
 ./représentations.sh
+
+### Autres étapes :
+
+Il est possible que vous deviez installer pandas, matplotlib ou encore numpy, si ce n'est pas déjà le cas sur votre machine. Suivez les recommandations du terminal et utilisez "pip install".
 
 ## Résultats
 
