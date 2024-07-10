@@ -16,7 +16,7 @@ pip install -r requirements.txt
 
 python3 setup.py install
 
-### 3. Installer LEAF
+### 3. Installer LIEF
 
 Installer la version 14 de Lief.
 
