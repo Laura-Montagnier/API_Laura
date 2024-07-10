@@ -18,7 +18,9 @@ python3 setup.py install
 
 ### 3. Installer LEAF
 
-Installer la version 14 de Leaf.
+Installer la version 14 de Lief.
+
+pip install lief
 
 ### 3. Rendre le script exécutable
 
